@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\cpp\guiEU4\guiEU4\Header.h(19,1): warning C4005: UNICODE: изменение макроопределения
+D:\cpp\guiEU4\guiEU4\Header.h(19,1): message : "UNICODE" ранее объявлен в командной строке
+D:\cpp\guiEU4\guiEU4\Source.cpp(13,20): warning C4293: >>: отрицательное или слишком большое смещение; поведение не определено
+  guiEU4.vcxproj -> D:\cpp\guiEU4\Debug\guiEU4.exe

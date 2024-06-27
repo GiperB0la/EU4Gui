@@ -1,0 +1,10 @@
+﻿  Source.cpp
+D:\cpp\guiEU4\guiEU4\Header.h(19,1): warning C4005: UNICODE: изменение макроопределения
+D:\cpp\guiEU4\guiEU4\Header.h(19,1): message : "UNICODE" ранее объявлен в командной строке
+D:\cpp\guiEU4\guiEU4\Source.cpp(13,20): warning C4293: >>: отрицательное или слишком большое смещение; поведение не определено
+  Создание кода
+  197 of 239 functions (82.4%) were compiled, the rest were copied from previous compilation.
+    103 functions were new in current compilation
+    10 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  guiEU4.vcxproj -> D:\cpp\guiEU4\Release\guiEU4.exe

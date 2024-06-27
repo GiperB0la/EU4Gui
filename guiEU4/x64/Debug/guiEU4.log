@@ -1,0 +1,10 @@
+﻿  Source.cpp
+D:\cpp\guiEU4\guiEU4\Header.h(19,1): warning C4005: UNICODE: изменение макроопределения
+  (компиляция исходного файла "Source.cpp")
+  D:\cpp\guiEU4\guiEU4\Header.h(19,1):
+  "UNICODE" ранее объявлен в командной строке
+  
+D:\cpp\guiEU4\guiEU4\Source.cpp(65,32): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\cpp\guiEU4\guiEU4\Source.cpp(110,36): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\cpp\guiEU4\guiEU4\Source.cpp(535,45): warning C4244: =: преобразование "LRESULT" в "int", возможна потеря данных
+  guiEU4.vcxproj -> D:\cpp\guiEU4\x64\Debug\guiEU4.exe
